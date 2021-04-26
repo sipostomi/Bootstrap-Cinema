@@ -1,0 +1,103 @@
+h1 {  
+	font-family: 'Montserrat', sans-serif;
+	font-size: 3rem;  
+	line-height: 1.5;  
+	font-weight: 200; 
+}
+
+h2, h3{
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 200;
+}
+
+p{
+	color: #8f8f8f;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 100;
+}
+
+
+em{
+	font-family: "Montserrat";
+	font-weight: 300;
+}
+
+.container-fluid{
+	padding: 3% 15% 5%;
+}
+
+#title{
+	background-color:  #80bfff;
+	color: #fff;
+}
+
+/* Navigation Bar */
+.navbar{
+	padding-bottom:4.5rem;
+}
+
+.navbar-brand{
+	font-family: "Ubuntu";
+	font-size: 2.5rem;
+	font-weight: 700;
+}
+
+.nav-item{
+	padding: 0 18px;
+}
+
+.nav-link{
+	font-size: 1.5rem;
+	font-family: "Montserrat";
+	font-weight: 300;
+}
+
+/* Title Image */
+.title-image{
+	width: 100%;
+}
+
+/* Button */
+.btn-color{
+	background-color:  #80bfff;
+	border-radius: 0;
+	color: white;
+}
+
+.btn-color:hover{
+	color: black;
+}
+
+.btn-text{
+	font-family: "Montserrat";
+	font-weight: 300;
+}
+
+/* Jumbotron */
+.bg-color{
+	background-color: #80bfff;
+	color: white;
+}
+
+/*Tickets Section */
+#tickets{
+	padding: 3% 15% 5%;
+	text-align: center;
+}
+
+/* Testimonial Section */
+#testimonials{
+	text-align: center;
+	background-color: #80bfff;
+	color: #fff;
+}
+
+.carousel-item{
+	padding: 7% 15%;
+}
+
+/* Footer */
+#footer{
+	padding: 3% 15% 0%;
+	text-align: center;
+}
